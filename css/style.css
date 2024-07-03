@@ -75,6 +75,7 @@ h1{
     line-height: 2.5rem;
     display: block;
     box-sizing: border-box;
+    text-align: center;
 }
 .para img{
    
@@ -83,6 +84,7 @@ h1{
     height: 100px;
     width: 100px;
     margin: 1rem;
+    text-align: center;
 }
 .btn3{
     font-size:12px ;
@@ -93,6 +95,7 @@ h1{
     background-color: #05cc98;
     color: white;
     box-shadow: 0 0 10px 0 gray;
+    text-align: center;
 }
 /* footer */
 footer{
@@ -103,4 +106,5 @@ footer{
     color: rgba(255, 255, 255, 1.0);
     margin: auto;
     padding: 60px;
+    text-align: center;
 }
