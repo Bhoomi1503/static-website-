@@ -1,0 +1,106 @@
+/* Top Header */
+.header{
+    height: 100px;
+    vertical-align: middle;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+ul{
+    list-style-type: none;
+    float: right;
+}
+li{
+    display: inline;
+    padding: 20px;
+    font-size: 12px;
+}
+button{
+    font-size:12px ;
+    border-radius: 20px;
+    border: none;
+    padding: 15px;
+    width: 130px;
+}
+.globe{
+    height: 30px;
+    width: 30px;
+    
+}
+.btn1{
+    background-color: white;
+    color: #05cc98;
+    box-shadow: 0 0 10px 0 gray;
+    margin: 20px;
+}
+.btn2{
+    background-color: #05cc98;
+    color: white;
+    box-shadow: 0 0 10px 0 gray;
+}
+/* 2nd container start */
+h1{
+    font-weight: 700px;
+    font-size: 50px;
+}
+.info {
+    padding: 0px 0px 40px;
+    margin: 40px 60px 120px;
+   
+}
+.im img{
+    float: right;
+   display: inline;
+   width: 300px;
+   height: 370px;
+}
+.info p{
+    padding: 0px 400px 0px 0px;
+    font-size: 25px;
+}
+/* 3rd container start */
+.video iframe{
+   
+    width: 1150px;
+    height: 500px;
+}
+/* 4th container start */
+.para{
+    
+    font-family: Montserrat-Light, Arial;
+    max-width: 80%;
+    margin: auto;
+    font-size: 14px;
+    line-height: 2.5rem;
+    display: block;
+    box-sizing: border-box;
+}
+.para img{
+   
+    /* float: right; */
+    padding: 0px;
+    height: 100px;
+    width: 100px;
+    margin: 1rem;
+}
+.btn3{
+    font-size:12px ;
+    border-radius: 20px;
+    border: none;
+    padding: 15px;
+    width: 230px;
+    background-color: #05cc98;
+    color: white;
+    box-shadow: 0 0 10px 0 gray;
+}
+/* footer */
+footer{
+    
+   background-color: #05cc98;
+    height: 300px;
+    width: auto;
+    color: rgba(255, 255, 255, 1.0);
+    margin: auto;
+    padding: 60px;
+}
